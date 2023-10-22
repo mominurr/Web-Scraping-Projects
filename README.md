@@ -48,6 +48,7 @@ At the moment, I have completed **10** web scraping projects. This list is conti
    - Website: [after55.com](https://www.after55.com)
    - Description: This project scrapes property data from after55.
 
+
 ## Contact Me
 
 If you have specific scraping tasks in mind or would like access to any of the projects listed here, please don't hesitate to contact me:
