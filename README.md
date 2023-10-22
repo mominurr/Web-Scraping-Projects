@@ -45,8 +45,8 @@ At the moment, I have completed **10** web scraping projects. This list is conti
    - Description: This project scrapes product information from witson.
 
 10. **after55 Scraper**
-   - Website: [after55.com](https://www.after55.com)
-   - Description: This project scrapes property data from after55.
+      - Website: [after55.com](https://www.after55.com)
+      - Description: This project scrapes property data from after55.
 
 
 ## Contact Me
