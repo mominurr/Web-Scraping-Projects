@@ -2,9 +2,9 @@
 
 Welcome to my Web Scraping Projects repository! Here, you can find a list of web scraping projects I’ve completed. These projects are hosted in my private GitHub repositories. If you need access to the code or have specific scraping tasks in mind, feel free to contact me.
 
-## Total Scraping Projects : 10
+## Total Scraping Projects : 11
 
-At the moment, I have completed **10** web scraping projects. This list is continually growing as I add new projects upon completion.
+At the moment, I have completed **11** web scraping projects. This list is continually growing as I add new projects upon completion.
 
 ## Project List
 
