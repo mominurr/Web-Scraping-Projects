@@ -48,6 +48,10 @@ At the moment, I have completed **10** web scraping projects. This list is conti
    - Website: [after55.com](https://www.after55.com)
    - Description: This project scrapes property data from after55.
 
+11. **socialbook-io-and-youtube_email Scraper**
+   - Website: [socialbook.io](https://socialbook.io/youtube_email_extraction_rok) [youtube.com](https://www.youtube.com/)
+   - Description: This project scrape email from youtube channel and this email submit socialbook.io website. But for this project you must need many gmail account and channel and also need vpn(https://nordvpn.com/). I am suggesting nordvpn.
+
 ## Contact Me
 
 If you have specific scraping tasks in mind or would like access to any of the projects listed here, please don't hesitate to contact me:
