@@ -45,8 +45,8 @@ At the moment, I have completed **12** web scraping projects. This list is conti
    - Description: This project scrapes product information from witson.com.
 
 10. **after55-com-scraper**
-      - Website: [after55.com](https://www.after55.com)
-      - Description: This project scrapes property data from after55.com.
+   - Website: [after55.com](https://www.after55.com)
+   - Description: This project scrapes property data from after55.com.
 
 11. **socialbook-io-and-youtube-email-scraper**
    - Website: [socialbook.io](https://socialbook.io/youtube_email_extraction_rok) [youtube.com](https://www.youtube.com/)
@@ -60,12 +60,12 @@ At the moment, I have completed **12** web scraping projects. This list is conti
 
 If you have specific scraping tasks in mind or would like access to any of the projects listed here, please don't hesitate to contact me:
 
-- **Email:**     mominurr518@gmail.com
-- **LinkedIn:**  [LinkedIn Profile](https://www.linkedin.com/in/mominur-rahman-145461203/)
-- **Twitter:**   [Twitter Profile](https://twitter.com/mominur_rahma_n)
-- **Facebook:**  [Facebook Profile](https://www.facebook.com/profile.php?id=100076787314573)
-- **Instagram:** [Instagram Profile](https://www.instagram.com/mominur_rahma_n)
-- **Github:**    [Github Profile](https://github.com/mominurr)
+- **Email:**      mominurr518@gmail.com
+- **LinkedIn:**   [LinkedIn Profile](https://www.linkedin.com/in/mominur-rahman-145461203/)
+- **Twitter:**    [Twitter Profile](https://twitter.com/mominur_rahma_n)
+- **Facebook:**   [Facebook Profile](https://www.facebook.com/profile.php?id=100076787314573)
+- **Instagram:**  [Instagram Profile](https://www.instagram.com/mominur_rahma_n)
+- **Github:**     [Github Profile](https://github.com/mominurr)
 
 I'm responsive and open to inquiries related to web scraping. Feel free to reach out via email, LinkedIn, or Facebook.
 
