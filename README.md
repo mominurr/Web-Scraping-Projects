@@ -2,55 +2,59 @@
 
 Welcome to my Web Scraping Projects repository! Here, you can find a list of web scraping projects I’ve completed. These projects are hosted in my private GitHub repositories. If you need access to the code or have specific scraping tasks in mind, feel free to contact me.
 
-## Total Scraping Projects : 11
+## Total Scraping Projects : 12
 
-At the moment, I have completed **11** web scraping projects. This list is continually growing as I add new projects upon completion.
+At the moment, I have completed **12** web scraping projects. This list is continually growing as I add new projects upon completion.
 
 ## Project List
 
-1. **Zillow Scraper**
+1. **zillow-com-scraper**
    - Website: [zillow.com](https://www.zillow.com)
-   - Description: This project scrapes property data and agent information from Zillow.
+   - Description: This project scrapes property data and agent information from zillow.com.
 
-2. **domain Scraper**
+2. **domain-com-au-scraper**
    - Website: [domain.com.au](https://www.domain.com.au/)
-   - Description: This project scrapes property data and agent information from domain.
+   - Description: This project scrapes property data and agent information from domain.com.au.
 
-3. **realtor Scraper**
+3. **realtor-com-scraper**
    - Website: [realtor.com](https://www.realtor.com/)
-   - Description: This project scrapes property data and agent information from realtor.
+   - Description: This project scrapes property data and agent information from realtor.com.
 
-4. **ebay Scraper**
+4. **ebay-com-scraper**
    - Website: [ebay.com](https://www.ebay.com/)
-   - Description: This project scrapes product information from ebay.
+   - Description: This project scrapes product information from ebay.com.
 
-5. **gsmarena Scraper**
+5. **gsmarena-com-scraper**
    - Website: [gsmarena.com](https://www.gsmarena.com/)
-   - Description: This project scrapes product information from gsmarena.
+   - Description: This project scrapes product information from gsmarena.com.
 
-6. **amazon Scraper**
+6. **amazon-com-scraper**
    - Website: [amazon.com](https://www.amazon.com/)
-   - Description: This project scrapes product information and review information from amazon.
+   - Description: This project scrapes product information and review information from amazon.com.
 
-7. **partnertele Scraper**
+7. **partnertele-com-scraper**
    - Website: [partnertele.com](https://partnertele.com)
-   - Description: This project scrapes product information from partnertele.
+   - Description: This project scrapes product information from partnertele.com.
 
-8. **tuning-tec Scraper**
+8. **tuning-tec-com-scraper**
    - Website: [tuning-tec.com](https://tuning-tec.com/)
-   - Description: This project scrapes product information from tuning-tec.
+   - Description: This project scrapes product information from tuning-tec.com.
 
-9. **witson Scraper**
+9. **witson-com-scraper**
    - Website: [witson.com](https://witson.com/)
-   - Description: This project scrapes product information from witson.
+   - Description: This project scrapes product information from witson.com.
 
-10. **after55 Scraper**
+10. **after55-com-scraper**
       - Website: [after55.com](https://www.after55.com)
-      - Description: This project scrapes property data from after55.
+      - Description: This project scrapes property data from after55.com.
 
-11. **socialbook-io-and-youtube-email Scraper**
-      - Website: [socialbook.io](https://socialbook.io/youtube_email_extraction_rok) [youtube.com](https://www.youtube.com/)
-      - Description: This project scrape email from youtube channel and this email submit socialbook.io website. But for this project you must need many gmail account and channel and also need vpn(https://nordvpn.com/). I am suggesting nordvpn.
+11. **socialbook-io-and-youtube-email-scraper**
+   - Website: [socialbook.io](https://socialbook.io/youtube_email_extraction_rok) [youtube.com](https://www.youtube.com/)
+   - Description: This project scrape email from youtube channel and this email submit socialbook.io website. But for this project you must need many gmail account and channel and also need vpn(https://nordvpn.com/). I am suggesting nordvpn.
+
+12. **realtor-ca-scraper**
+      - Website: [realtor.ca](https://www.realtor.ca/)
+      - Description: This project scrapes property data and agent information from realtor.ca.
 
 ## Contact Me
 
