@@ -60,7 +60,7 @@ At the moment, I have completed **12** web scraping projects. This list is conti
 
 If you have specific scraping tasks in mind or would like access to any of the projects listed here, please don't hesitate to contact me:
 
-- **Email:** mominurr518@gmail.com
+- **Email:**     mominurr518@gmail.com
 - **LinkedIn:**  [LinkedIn Profile](https://www.linkedin.com/in/mominur-rahman-145461203/)
 - **Twitter:**   [Twitter Profile](https://twitter.com/mominur_rahma_n)
 - **Facebook:**  [Facebook Profile](https://www.facebook.com/profile.php?id=100076787314573)
