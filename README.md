@@ -52,6 +52,7 @@ At the moment, I have completed **17** web scraping projects. This list is conti
 11. **socialbook-io-and-youtube-email-scraper**
       - Website: [socialbook.io](https://socialbook.io/youtube_email_extraction_rok) [youtube.com](https://www.youtube.com/)
       - Description: This project scrape email from youtube channel and this email submit socialbook.io website. But for this project you must need many gmail account and channel and also need [vpn](https://nordvpn.com/). I am suggesting nordvpn.
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/youtube-Data.xlsx) 
 
 12. **realtor-ca-scraper**
       - Website: [realtor.ca](https://www.realtor.ca/)
