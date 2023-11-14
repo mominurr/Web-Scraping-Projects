@@ -2,9 +2,9 @@
 
 Welcome to my Web Scraping Projects repository! Here, you can find a list of web scraping projects I’ve completed. These projects are hosted in my private GitHub repositories. If you need access to the code or have specific scraping tasks in mind, feel free to contact me.
 
-## Total Scraping Projects : 12
+## Total Scraping Projects : 17
 
-At the moment, I have completed **12** web scraping projects. This list is continually growing as I add new projects upon completion.
+At the moment, I have completed **17** web scraping projects. This list is continually growing as I add new projects upon completion.
 
 ## Project List
 
@@ -69,11 +69,11 @@ At the moment, I have completed **12** web scraping projects. This list is conti
    - Website: [zango.com.au](https://zango.com.au/auction-results/latest/)
    - Description: This project scrapes property data from this url(https://zango.com.au/auction-results/latest/).
 
-15. **empireflippers.com-scraper**
+16. **empireflippers.com-scraper**
    - Website: [empireflippers.com](https://empireflippers.com/marketplace/)
    - Description: This project scrapes product data from empireflippers.com.
 
-16. **arbk.rks-gov.net-scraper**
+17. **arbk.rks-gov.net-scraper**
       - Website: [arbk.rks-gov.net](https://arbk.rks-gov.net/)
       - Description: This project scrapes business data from arbk.rks-gov.net.
       - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/arbk.rks-gov.net-data.xlsx) 
