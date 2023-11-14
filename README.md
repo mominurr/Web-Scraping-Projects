@@ -61,14 +61,17 @@ At the moment, I have completed **17** web scraping projects. This list is conti
 13. **ajpes.si-scraper**
       - Website: [ajpes.si](https://www.ajpes.si/RNO/Ajpes.RNO/RNO/vstop)
       - Description: This project scrapes this [url](https://www.ajpes.si/RNO/Ajpes.RNO/RNO/vstop) detail information.
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/ajpes.si-data.xlsx) 
 
 14. **allhomes.com.au-scraper**
       - Website: [allhomes.com.au](https://www.allhomes.com.au/auction-results/)
       - Description: This project scrapes property data from this [url](https://www.allhomes.com.au/auction-results/).
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/allhomes.com.au-data.xlsx) 
 
 15. **zango.com.au-scraper**
       - Website: [zango.com.au](https://zango.com.au/auction-results/latest/)
       - Description: This project scrapes property data from this [url](https://zango.com.au/auction-results/latest/).
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/zango.com.au-data.xlsx) 
 
 16. **empireflippers.com-scraper**
       - Website: [empireflippers.com](https://empireflippers.com/marketplace/)
