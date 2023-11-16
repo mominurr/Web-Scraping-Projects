@@ -10,7 +10,8 @@ At the moment, I have completed **17** web scraping projects. This list is conti
 
 1. **zillow-com-scraper**
    - Website: [zillow.com](https://www.zillow.com)
-   - Description: This project scrapes property data and agent information from zillow.com.
+   - Description: This project scrapes property data and agent information from  zillow.com.
+   - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/zillow-properties-data.json) 
 
 2. **domain-com-au-scraper**
    - Website: [domain.com.au](https://www.domain.com.au/)
