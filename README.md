@@ -2,9 +2,9 @@
 
 Welcome to my Web Scraping Projects repository! Here, you can find a list of web scraping projects I’ve completed. These projects are hosted in my private GitHub repositories. If you need access to the code or have specific scraping tasks in mind, feel free to contact me.
 
-## Total Scraping Projects : 17
+## Total Scraping Projects : 19
 
-At the moment, I have completed **17** web scraping projects. This list is continually growing as I add new projects upon completion.
+At the moment, I have completed **19** web scraping projects. This list is continually growing as I add new projects upon completion.
 
 ## Project List
 
@@ -82,6 +82,16 @@ At the moment, I have completed **17** web scraping projects. This list is conti
       - Website: [arbk.rks-gov.net](https://arbk.rks-gov.net/)
       - Description: This project scrapes business data from arbk.rks-gov.net.
       - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/arbk.rks-gov.net-data.xlsx) 
+
+18. **copart.co.uk-scraper**
+      - Website: [copart.co.uk](https://www.copart.co.uk/)
+      - Description: This project scrapes product data from copart.co.uk.
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/copart.co.uk-data.csv) 
+
+19. **kmotorshop.com-scraper**
+      - Website: [kmotorshop.com](https://www.kmotorshop.com)
+      - Description: This project scrapes product data from kmotorshop.com.
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/kmotorshop.com-data.xlsx) 
 
 ## Contact Me
 
