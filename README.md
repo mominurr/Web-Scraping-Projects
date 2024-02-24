@@ -2,9 +2,9 @@
 
 Welcome to my Web Scraping Projects repository! Here, you can find a list of web scraping projects I’ve completed. These projects are hosted in my private GitHub repositories. If you need access to the code or have specific scraping tasks in mind, feel free to contact me.
 
-## Total Scraping Projects : 19
+## Total Scraping Projects : 20
 
-At the moment, I have completed **19** web scraping projects. This list is continually growing as I add new projects upon completion.
+At the moment, I have completed **20** web scraping projects. This list is continually growing as I add new projects upon completion.
 
 ## Project List
 
@@ -91,7 +91,11 @@ At the moment, I have completed **19** web scraping projects. This list is conti
 19. **kmotorshop.com-scraper**
       - Website: [kmotorshop.com](https://www.kmotorshop.com)
       - Description: This project scrapes product data from kmotorshop.com.
-      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/kmotorshop.com-data.xlsx) 
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/kmotorshop.com-data.xlsx)
+20. **facebook.com-scraper**
+      - Website: [facebook.com](https://www.facebook.com)
+      - Description: This project scrapes public group post data with comment from facebook.com.
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/group-post-data.csv) 
 
 ## Contact Me
 
