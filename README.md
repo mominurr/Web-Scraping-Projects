@@ -2,9 +2,9 @@
 
 Welcome to my Web Scraping Projects repository! Here, you can find a list of web scraping projects I’ve completed. These projects are hosted in my private GitHub repositories. If you need access to the code or have specific scraping tasks in mind, feel free to contact me.
 
-## Total Scraping Projects : 20
+## Total Scraping Projects : 25
 
-At the moment, I have completed **20** web scraping projects. This list is continually growing as I add new projects upon completion.
+At the moment, I have completed **25** web scraping projects. This list is continually growing as I add new projects upon completion.
 
 ## Project List
 
@@ -96,6 +96,26 @@ At the moment, I have completed **20** web scraping projects. This list is conti
       - Website: [facebook.com](https://www.facebook.com)
       - Description: This project scrapes public group post data with comment from facebook.com.
       - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/group-post-data.csv) 
+21. **addinol.de-scraper**
+      - Website: [addinol.de](https://www.addinol.de)
+      - Description: This project scrapes product infromation from addinol.de.
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/addinol-sample-data.xlsx) 
+22. **aftermarket.schaeffler.com-scraper**
+      - Website: [addinol.de](https://aftermarket.schaeffler.com)
+      - Description: This project scrapes product infromation from aftermarket.schaeffler.com.
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/aftermarket-data.json)
+23. **agrodoctor.eu-scraper**
+      - Website: [agrodoctor.eu](https://agrodoctor.eu)
+      - Description: This project scrapes product infromation from agrodoctor.eu.
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/agrodoctor.data.json)  
+24. **bizi.si-scraper**
+      - Website: [bizi.si](https://agrodoctor.eu)
+      - Description: This project scrapes product infromation from bizi.si.
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/bizi-data.xlsx)
+25. **discoverisc.com-scraper**
+      - Website: [discoverisc.com](https://www.discoverisc.com)
+      - Description: This project scrapes product infromation from discoverisc.com.
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/discoverisc-sample-data.xlsx)    
 
 ## Contact Me
 
@@ -107,6 +127,7 @@ If you have specific scraping tasks in mind or would like access to any of the p
 - **Facebook:**   [Facebook Profile](https://www.facebook.com/profile.php?id=100076787314573)
 - **Instagram:**  [Instagram Profile](https://www.instagram.com/mominur_rahma_n)
 - **Github:**     [Github Profile](https://github.com/mominurr)
+- **Website:**     [Github Profile](https://mominurr518.wixsite.com/portfolio)
 
 I'm responsive and open to inquiries related to web scraping. Feel free to reach out via email, LinkedIn, or Facebook.
 
