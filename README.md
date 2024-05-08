@@ -127,7 +127,7 @@ If you have specific scraping tasks in mind or would like access to any of the p
 - **Facebook:**   [Facebook Profile](https://www.facebook.com/profile.php?id=100076787314573)
 - **Instagram:**  [Instagram Profile](https://www.instagram.com/mominur_rahma_n)
 - **Github:**     [Github Profile](https://github.com/mominurr)
-- **Website:**     [Portfolio](https://mominurr518.wixsite.com/portfolio)
+- **Website:**     [Portfolio](https://mominur.dev/)
 
 I'm responsive and open to inquiries related to web scraping. Feel free to reach out via email, LinkedIn, or Facebook.
 
