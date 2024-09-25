@@ -2,9 +2,9 @@
 
 Welcome to my Web Scraping Projects repository! Here, you can find a list of web scraping projects I’ve completed. These projects are hosted in my private GitHub repositories. If you need access to the code or have specific scraping tasks in mind, feel free to contact me.
 
-## Total Scraping Projects : 25
+## Total Scraping Projects : 30
 
-At the moment, I have completed **25** web scraping projects. This list is continually growing as I add new projects upon completion.
+At the moment, I have completed **150+** web scraping projects. This list is continually growing as I add new projects upon completion.
 
 ## Project List
 
@@ -115,7 +115,28 @@ At the moment, I have completed **25** web scraping projects. This list is conti
 25. **discoverisc.com-scraper**
       - Website: [discoverisc.com](https://www.discoverisc.com)
       - Description: This project scrapes product infromation from discoverisc.com.
-      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/discoverisc-sample-data.xlsx)    
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/discoverisc-sample-data.xlsx) 
+26. **cars.com-scraper**
+      - Website: [cars.com](https://www.cars.com)
+      - Description: This project scrapes product infromation from cars.com.
+      - Data: [Sample File](https://github.com/mominurr/cars.com/blob/main/cars_data_2024_09_25.csv)
+      - Github: [cars.com:scraper](https://github.com/mominurr/cars.com)
+27. **vfsglobal.com-scraper**
+      - Website: [vfsglobal.com](https://www.vfsglobal.com/en/individuals/index.html)
+      - Description: This bot automates the process of checking for available visa appointments on the VFS Global website. 
+      - Github: [visa.vfsglobal.com:appoinment automation bot](https://github.com/mominurr/visa.vfsglobal.com)
+28. **selfridges.com-scraper**
+      - Website: [selfridges.com](https://www.selfridges.com)
+      - Description: This project scrapes product infromation from selfridges.com.
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/date_20-09-2024__time_09-10-05.xlsx)
+29. **cosmetis.pt-scraper**
+      - Website: [cosmetis.pt](https://www.cosmetis.pt)
+      - Description: This project scrapes product infromation from cosmetis.pt.
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/date_26-09-2024__time_12-33-13.xlsx)
+30. **harrods.com-scraper**
+      - Website: [harrods.com](https://www.harrods.com)
+      - Description: This project scrapes product infromation from harrods.com.
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/new_harrods_sample_data.xlsx)         
 
 ## Contact Me
 
