@@ -4,7 +4,7 @@ Welcome to my Web Scraping Projects repository! Here, you can find a list of web
 
 ## Total Scraping Projects : 30
 
-At the moment, I have completed **150+** web scraping projects. This list is continually growing as I add new projects upon completion.
+At the moment, I have completed **200+** web scraping projects. This list is continually growing as I add new projects upon completion.
 
 ## Project List
 
