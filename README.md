@@ -1,12 +1,12 @@
 # Web Scraping Projects
 
-Welcome to my Web Scraping Projects repository! Here, you can find a list of web scraping projects I’ve completed. These projects are hosted in my private GitHub repositories. If you need access to the code or have specific scraping tasks in mind, feel free to contact me.
+Welcome to my Web Scraping Projects repository! Here, you can find a list of web scraping projects I’ve shared. These projects are hosted in my private GitHub repositories. If you need access to the code or have specific scraping tasks in mind, feel free to contact me.
 
-## Total Scraping Projects : 30
+## Total Scraping Projects Shared : 31
 
-At the moment, I have completed **200+** web scraping projects. This list is continually growing as I add new projects upon completion.
+At the moment, I have completed **250+** web scraping projects. This list is continually growing as I add new projects upon completion.
 
-## Project List
+## Scraping & Automation Projects Lists
 
 1. **zillow-com-scraper**
    - Website: [zillow.com](https://www.zillow.com)
@@ -92,51 +92,69 @@ At the moment, I have completed **200+** web scraping projects. This list is con
       - Website: [kmotorshop.com](https://www.kmotorshop.com)
       - Description: This project scrapes product data from kmotorshop.com.
       - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/kmotorshop.com-data.xlsx)
+
 20. **facebook.com-scraper**
       - Website: [facebook.com](https://www.facebook.com)
       - Description: This project scrapes public group post data with comment from facebook.com.
       - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/group-post-data.csv) 
+
 21. **addinol.de-scraper**
       - Website: [addinol.de](https://www.addinol.de)
       - Description: This project scrapes product infromation from addinol.de.
       - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/addinol-sample-data.xlsx) 
+
 22. **aftermarket.schaeffler.com-scraper**
       - Website: [addinol.de](https://aftermarket.schaeffler.com)
       - Description: This project scrapes product infromation from aftermarket.schaeffler.com.
       - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/aftermarket-data.json)
+
 23. **agrodoctor.eu-scraper**
       - Website: [agrodoctor.eu](https://agrodoctor.eu)
       - Description: This project scrapes product infromation from agrodoctor.eu.
       - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/agrodoctor.data.json)  
+
 24. **bizi.si-scraper**
       - Website: [bizi.si](https://agrodoctor.eu)
       - Description: This project scrapes product infromation from bizi.si.
       - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/bizi-data.xlsx)
+
 25. **discoverisc.com-scraper**
       - Website: [discoverisc.com](https://www.discoverisc.com)
       - Description: This project scrapes product infromation from discoverisc.com.
       - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/discoverisc-sample-data.xlsx) 
+
 26. **cars.com-scraper**
       - Website: [cars.com](https://www.cars.com)
       - Description: This project scrapes product infromation from cars.com.
       - Data: [Sample File](https://github.com/mominurr/cars.com/blob/main/cars_data_2024_09_25.csv)
       - Github: [cars.com:scraper](https://github.com/mominurr/cars.com)
+
 27. **vfsglobal.com-scraper**
       - Website: [vfsglobal.com](https://www.vfsglobal.com/en/individuals/index.html)
       - Description: This bot automates the process of checking for available visa appointments on the VFS Global website. 
       - Github: [visa.vfsglobal.com:appoinment automation bot](https://github.com/mominurr/visa.vfsglobal.com)
+
 28. **selfridges.com-scraper**
       - Website: [selfridges.com](https://www.selfridges.com)
       - Description: This project scrapes product infromation from selfridges.com.
       - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/date_20-09-2024__time_09-10-05.xlsx)
+
 29. **cosmetis.pt-scraper**
       - Website: [cosmetis.pt](https://www.cosmetis.pt)
       - Description: This project scrapes product infromation from cosmetis.pt.
       - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/date_26-09-2024__time_12-33-13.xlsx)
+
 30. **harrods.com-scraper**
       - Website: [harrods.com](https://www.harrods.com)
       - Description: This project scrapes product infromation from harrods.com.
-      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/new_harrods_sample_data.xlsx)         
+      - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/new_harrods_sample_data.xlsx) 
+          
+31. **realself.com-scraper**
+      - Website: [harrods.com](https://www.realself.com/)
+      - Description: Extracts doctor profiles and reviews while bypassing security.
+      - Blog Post: [RealSelf Data Collection](https://mominur.dev/posts/posts_7.html)
+      - Github: [realSelf.com_scraper](https://github.com/mominurr/realSelf.com_scraper)
+      - Data: [Sample File](https://github.com/mominurr/realSelf.com_scraper/blob/main/realself_sample_data.json)        
 
 ## Contact Me
 
