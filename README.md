@@ -150,7 +150,7 @@ At the moment, I have completed **250+** web scraping projects. This list is con
       - Data: [Sample File](https://github.com/mominurr/DATA-SAMPLE-FILE/blob/main/new_harrods_sample_data.xlsx) 
           
 31. **realself.com-scraper**
-      - Website: [harrods.com](https://www.realself.com/)
+      - Website: [realself.com](https://www.realself.com/)
       - Description: Extracts doctor profiles and reviews while bypassing security.
       - Blog Post: [RealSelf Data Collection](https://mominur.dev/posts/posts_7.html)
       - Github: [realSelf.com_scraper](https://github.com/mominurr/realSelf.com_scraper)
