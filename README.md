@@ -2,7 +2,7 @@
 
 Welcome to my Web Scraping Projects repository! Here, you can find a list of web scraping projects I’ve shared. These projects are hosted in my private GitHub repositories. If you need access to the code or have specific scraping tasks in mind, feel free to contact me.
 
-## Total Scraping Projects Shared : 31
+## Total Scraping Projects Shared : 35
 
 At the moment, I have completed **250+** web scraping projects. This list is continually growing as I add new projects upon completion.
 
@@ -154,7 +154,33 @@ At the moment, I have completed **250+** web scraping projects. This list is con
       - Description: Extracts doctor profiles and reviews while bypassing security.
       - Blog Post: [RealSelf Data Collection](https://mominur.dev/posts/posts_7.html)
       - Github: [realSelf.com_scraper](https://github.com/mominurr/realSelf.com_scraper)
-      - Data: [Sample File](https://github.com/mominurr/realSelf.com_scraper/blob/main/realself_sample_data.json)        
+      - Data: [Sample File](https://github.com/mominurr/realSelf.com_scraper/blob/main/realself_sample_data.json)
+
+32. **walmart.com-scraper**
+      - Website: [walmart.com](https://www.walmart.com/)
+      - Description: Extracts doctor profiles and reviews while bypassing security.
+      - Blog Post: [Walmart Data Collection](https://mominur.dev/posts/posts_8.html)
+      - Github: [Walmart.com_scraper](https://github.com/mominurr/Walmart-Data-Scraping)
+      - Data: [Sample File](https://github.com/mominurr/Walmart-Data-Scraping/blob/main/walmart.com_sample_data.json)
+
+33. **Real Estate Web Scraping**
+      - Website: Many websites, including realtor.com, zillow.com, domain.com.au and others.
+      - Description: This project scrapes real estate data from multiple websites.
+      - GitHub: [Real Estate Web Scraping](https://github.com/mominurr/Real-Estate-Web-Scraping)
+      - Data: [Sample File](https://github.com/mominurr/Real-Estate-Web-Scraping)
+
+34. **Social Media Scraping**
+      - Website: Many websites, including tiktok.com, facebook.com, instagram.com and others.
+      - Description: This project scrapes social media data from multiple websites.
+      - GitHub: [Social Media Scraping](https://github.com/mominurr/Social-Media-Scraping)
+      - Data: [Sample File](https://github.com/mominurr/Social-Media-Scraping)
+
+35. **Yellow Pages Data Scraping**
+      - Website: [yellowpages.com](https://www.yellowpages.com/) [yellowpages.com.au](https://www.yellowpages.com.au/)
+      - Description: This project scrapes yellow pages data from multiple websites.
+      - GitHub: [Yellow Pages Data Scraping](https://github.com/mominurr/Yellow-Pages-Data-Scraping)
+      - Data: [Sample File](https://github.com/mominurr/Yellow-Pages-Data-Scraping)
+
 
 ## Contact Me
 
