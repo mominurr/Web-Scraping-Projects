@@ -1,12 +1,25 @@
-# Web Scraping Projects
+# Web Scraping Portfolio
 
-Welcome to my Web Scraping Projects repository! Here, you can find a list of web scraping projects I’ve shared. These projects are hosted in my private GitHub repositories. If you need access to the code or have specific scraping tasks in mind, feel free to contact me.
+I have successfully completed over **300+ web scraping projects** across various industries, from e-commerce to social media data extraction. Below, I showcase **35 key web scraping projects** that demonstrate my capabilities and expertise.
 
-## Total Scraping Projects Shared : 35
+### 💡 **Why Choose Me?**
+🚀 **300+ Web Scraping Projects Completed**  
+🔹 **Expert in Web Scraping, Automation, and Data Extraction**  
+🔹 **Paid Services: Custom Web Scraping & Data Extraction**  
 
-At the moment, I have completed **250+** web scraping projects. This list is continually growing as I add new projects upon completion.
+## 🛠 Services Offered
+- **Web Scraping & Data Extraction** (Custom Scraping Solutions)
+- **Automation with Selenium & Python**
+- **Data Analysis & Processing**
 
-## Scraping & Automation Projects Lists
+
+> **Note:** If you need data from any of the websites listed below or want a new website scraped, this is a **paid service**. Contact me for pricing details.
+
+---
+
+## Web Scraping Projects
+
+I have successfully scraped data from **300+ websites**. Here are **35 notable projects**:
 
 1. **zillow-com-scraper**
    - Website: [zillow.com](https://www.zillow.com)
